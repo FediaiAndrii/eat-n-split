@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FediaiAndrii/eat-n-split.git/static/css/main.f38a3276.css",
+    "main.js": "/FediaiAndrii/eat-n-split.git/static/js/main.932663b9.js",
+    "index.html": "/FediaiAndrii/eat-n-split.git/index.html",
+    "main.f38a3276.css.map": "/FediaiAndrii/eat-n-split.git/static/css/main.f38a3276.css.map",
+    "main.932663b9.js.map": "/FediaiAndrii/eat-n-split.git/static/js/main.932663b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.932663b9.js"
+  ]
+}
